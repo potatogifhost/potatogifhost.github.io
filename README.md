@@ -1,2 +1,2 @@
 # potatogifhost.github.io
-host
+hosting gifs
