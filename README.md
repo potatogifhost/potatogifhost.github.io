@@ -1,2 +1,2 @@
 # potatogifhost.github.io
-hosting gifs
+hosting anime gifs to be used by discord bots
